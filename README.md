@@ -15,12 +15,10 @@ If you would like to download the code for personal use and editing, you can dow
 
 ## Usage
 
-To view this website, click on this link: 
+To view this website, click on this link: https://brychai.github.io/project-1/
 
-Below is an example of what the website looks like:
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Below is an example of what the website looks like: 
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![The website homepage](assets/images/01-html-css-git-homework-demo.png)
     ```
