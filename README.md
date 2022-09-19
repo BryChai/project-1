@@ -19,6 +19,4 @@ To view this website, click on this link: https://brychai.github.io/project-1/
 
 Below is an example of what the website looks like: 
 
-    ```md
-    ![The website homepage](assets/images/01-html-css-git-homework-demo.png)
-    ```
+![The website homepage](assets/images/01-html-css-git-homework-demo.png)
